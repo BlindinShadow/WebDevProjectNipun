@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio",
+    "imageSrc": "https://repository-images.githubusercontent.com/384091706/a1614500-e03f-11eb-986a-30f6f0d4f1cc",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Robotics",
+    "imageSrc": "https://media.geeksforgeeks.org/wp-content/uploads/a_-search-algorithm-1.png",
+    "description": "This is a project made to learn robotics by building a drone",
+    "skills": ["ROS", "Python", "DSA", "IOT"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Video Player",
+    "imageSrc": "https://ps.w.org/html5-video-player/assets/icon-128x128.png?rev=2284032",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Kotlin", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
